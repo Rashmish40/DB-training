@@ -151,5 +151,10 @@ df2.display()
 
 # MAGIC %md
 # MAGIC #making change in DB
-# Making changes in Github
+# MAGIC # Making changes in Github
 # MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC # learning Github integration
